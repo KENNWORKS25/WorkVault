@@ -1,6 +1,6 @@
 
 ### Bundling Plan with Canon
-1. SKU untuk 
+1. SKU untuk program Air & AIr SE
 
 
 ### Erafone KOL Marketing 
@@ -8,7 +8,7 @@
 
 
 ### Giveaway Program Blast & Start program
-
+1. Penjelasan flow ke sales team
 
 
 ### Dealer Segmentation untuk Giveaway
