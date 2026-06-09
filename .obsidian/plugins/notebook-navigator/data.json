@@ -481,10 +481,10 @@
     "02 - Knowledge Repo": "#14b8a6",
     "03 - Marketing Repo": "#0ea5e9",
     "04 - Sales Data": "#6366f1",
-    "05 - Weekly Digest": "#d946ef",
     "99 - Archives": "#78716c",
     "Artifacts": "#78716c",
-    "Scheduled": "#78716c"
+    "Scheduled": "#78716c",
+    "05 - Digest": "#d946ef"
   },
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
