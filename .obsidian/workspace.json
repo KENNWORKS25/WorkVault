@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Knowledge Repo/Brain Dump/Marketing Follow Up June 2026.md",
+                "file": "02 - Knowledge Repo/Brain Dump/Week 2 June 2026 MoM & Follow up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marketing Follow Up June 2026"
+              "title": "Week 2 June 2026 MoM & Follow up"
             }
           }
         ]
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Knowledge Repo/Brain Dump/Marketing Follow Up June 2026.md",
+                "file": "02 - Knowledge Repo/Brain Dump/Week 2 June 2026 MoM & Follow up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marketing Follow Up June 2026"
+              "title": "Backlinks for Week 2 June 2026 MoM & Follow up"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Knowledge Repo/Brain Dump/Marketing Follow Up June 2026.md",
+                "file": "02 - Knowledge Repo/Brain Dump/Week 2 June 2026 MoM & Follow up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marketing Follow Up June 2026"
+              "title": "Outgoing links from Week 2 June 2026 MoM & Follow up"
             }
           },
           {
@@ -230,8 +230,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "d7c239fe0b91e545",
+  "active": "8efbf7641a571bf2",
   "lastOpenFiles": [
+    "02 - Knowledge Repo/Brain Dump/Marketing Follow Up June 2026.md",
     "02 - Knowledge Repo/Brain Dump/Untitled.md",
     "CLAUDE.md",
     "05 - Digest/Weekly Digest/2026-05-28 Monday Digest.md",
@@ -252,7 +253,6 @@
     "01 - About/Marketing Activity.md",
     "03 - Marketing Repo/Social Media Content/SR — Prompt — SNR Explained + Air & Air SE (5 Slides).md",
     "02 - Knowledge Repo/Brain Dump/Post Erajaya Minutes & New Sales.md",
-    "02 - Knowledge Repo/Brain Dump/Marketing Follow Up June 2026.md",
     "02 - Knowledge Repo/Brain Dump/Week 2 June 2026 MoM & Follow up.md",
     "02 - Knowledge Repo/Wiki/Saramonic & BOYA Checklist.md",
     "02 - Knowledge Repo/Wiki/Social Media Marketing Gameplan.md",
