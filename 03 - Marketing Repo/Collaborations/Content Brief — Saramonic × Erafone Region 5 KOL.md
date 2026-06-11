@@ -44,7 +44,7 @@ Program KOL Support | Saramonic Indonesia
 
 ---
 
-## BRIEF 02 — @endrilost
+## BRIEF 02 — @endrilost (Bintaro Xchange)
 **Type:** Offline KOL Support — Store Visit
 **Platform:** TikTok
 **Product:** Saramonic Air (Air-01 atau Air-02)
@@ -74,7 +74,7 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 3. Closing: creator putuskan beli — tampilkan di kasir / bag dengan produk
 
 ### Mandatory
-- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone`
+- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone` `#saramonicairse` 
 - Tag: `@saramonic_id`
 
 ### Jangan
@@ -86,7 +86,7 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 
 ---
 
-## BRIEF 03 — @technoboy.10
+## BRIEF 03 — @technoboy.10 (Summarecon Mall Serpong)
 **Type:** Offline KOL Support — Store Visit
 **Platform:** TikTok
 **Product:** Saramonic Air SE (Air SE-01 atau Air SE-02)
@@ -107,7 +107,7 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 ### Key Spec untuk Sales Demo
 - Plug & play — connect langsung ke HP/kamera
 - Dapat digunakan sebagai mic todong
-- 
+- Terdapat fitur AI Noise cancellation yang dapat membedakan suara manusia & noise
 - Entry-level, harga terjangkau untuk creator pemula
 - Harga: Air SE-01 Rp 780.000 / Air SE-02 Rp 1.099.000
 
