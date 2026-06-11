@@ -32,7 +32,7 @@ Program KOL Support | Saramonic Indonesia
 - Tunjukkan indikator pairing di layar HP jika ada
 
 ### Mandatory
-- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone`
+- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone` `#saramonicairse` 
 - Tag: `@saramonic_id` & IG Erafone Region 5
 - Mention Erafone di akhir konten — verbal atau text overlay
 
@@ -56,8 +56,7 @@ Program KOL Support | Saramonic Indonesia
 - Toko: pilih salah satu dari 8 lokasi Erafone Region 5
 
 ### Lokasi Toko (pilih 1)
-Aeon Mall BSD · Senayan City · Bintaro Xchange · Supermall Karawaci
-Summarecon Mall Serpong · Central Park · Puri Indah Mall · Bintaro Xchange 2
+Bintaro Xchange
 
 ### Concept
 Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaskan produk secara natural di depan kamera. Tidak ada script kaku — konten harus terasa organik.
@@ -74,8 +73,8 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 3. Closing: creator putuskan beli — tampilkan di kasir / bag dengan produk
 
 ### Mandatory
-- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone` `#saramonicairse` 
-- Tag: `@saramonic_id`
+- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone`  `#saramonicair` 
+- Tag: `@saramonic_id` & tag toko yang di visit
 
 ### Jangan
 - Script yang kedengeran dihafal
@@ -98,8 +97,7 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 - Toko: pilih salah satu dari 8 lokasi Erafone Region 5
 
 ### Lokasi Toko (pilih 1)
-Aeon Mall BSD · Senayan City · Bintaro Xchange · Supermall Karawaci
-Summarecon Mall Serpong · Central Park · Puri Indah Mall · Bintaro Xchange 2
+Summarecon Mall Serpong
 
 ### Concept
 Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaskan produk secara natural di depan kamera. Tidak ada script kaku — konten harus terasa organik.
@@ -117,8 +115,8 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 3. Closing: creator putuskan beli — tampilkan di kasir / bag dengan produk
 
 ### Mandatory
-- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone`
-- Tag: `@saramonic_id`
+- Hashtag: `#Saramonic` `#SaramonicID` `#Erafone` `#saramonicairse` 
+- Tag: `@saramonic_id` & tag toko yang di visit
 
 ### Jangan
 - Script yang kedengeran dihafal
