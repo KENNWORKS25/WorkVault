@@ -3,7 +3,7 @@ Program KOL Support | Saramonic Indonesia
 
 ---
 
-## BRIEF 01 — @rhyndutech
+## BRIEF — @rhyndutech
 **Type:** Online KOL Support
 **Platform:** TikTok (primary) / Instagram
 **Product:** Saramonic Air SE
@@ -44,7 +44,7 @@ Program KOL Support | Saramonic Indonesia
 
 ---
 
-## BRIEF 02 — @endrilost (Bintaro Xchange)
+## BRIEF — @endrilost (Bintaro Xchange)
 **Type:** Offline KOL Support — Store Visit
 **Platform:** TikTok
 **Product:** Saramonic Air (Air-01 atau Air-02)
@@ -85,7 +85,7 @@ Creator datang ke toko sebagai pembeli biasa. Sales counter Saramonic menjelaska
 
 ---
 
-## BRIEF 03 — @technoboy.10 (Summarecon Mall Serpong)
+## BRIEF — @technoboy.10 (Summarecon Mall Serpong)
 **Type:** Offline KOL Support — Store Visit
 **Platform:** TikTok
 **Product:** Saramonic Air SE (Air SE-01 atau Air SE-02)
